@@ -1,0 +1,40 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Fruits illustration -->
+  <rect width="200" height="200" fill="#f8f8f8" rx="10" ry="10"/>
+  
+  <!-- Basket -->
+  <path d="M50,130 L150,130 L140,170 L60,170 Z" fill="#deb887" stroke="#a0522d" stroke-width="2" />
+  <path d="M50,130 C50,110 150,110 150,130" fill="none" stroke="#a0522d" stroke-width="2" />
+  
+  <!-- Apple -->
+  <circle cx="70" cy="120" r="15" fill="#e63946" />
+  <path d="M70,105 C75,100 80,105 75,110" stroke="#2a9d8f" stroke-width="2" fill="none" />
+  
+  <!-- Orange -->
+  <circle cx="100" cy="115" r="15" fill="#ff9f1c" />
+  <path d="M100,100 C105,95 110,100 105,105" stroke="#2a9d8f" stroke-width="2" fill="none" />
+  
+  <!-- Banana -->
+  <path d="M120,110 C140,105 145,115 130,125" stroke="#ffbe0b" stroke-width="12" fill="#ffbe0b" stroke-linecap="round" />
+  <path d="M120,110 C125,105 130,105 130,110" stroke="#2a9d8f" stroke-width="1" fill="none" />
+  
+  <!-- Grapes -->
+  <circle cx="85" cy="140" r="5" fill="#7209b7" />
+  <circle cx="80" cy="145" r="5" fill="#7209b7" />
+  <circle cx="90" cy="145" r="5" fill="#7209b7" />
+  <circle cx="85" cy="150" r="5" fill="#7209b7" />
+  <path d="M85,135 C80,125 90,125 85,115" stroke="#2a9d8f" stroke-width="1" fill="none" />
+  
+  <!-- Mango -->
+  <ellipse cx="115" cy="145" rx="12" ry="8" fill="#fcbf49" transform="rotate(-15, 115, 145)" />
+  <path d="M115,137 C120,132 125,137 120,142" stroke="#2a9d8f" stroke-width="1" fill="none" />
+  
+  <!-- Scattered small fruits -->
+  <circle cx="60" cy="150" r="4" fill="#e63946" /> <!-- Small apple -->
+  <circle cx="130" cy="150" r="4" fill="#ff9f1c" /> <!-- Small orange -->
+  <circle cx="140" cy="140" r="3" fill="#7209b7" /> <!-- Small grape -->
+  
+  <!-- Product label -->
+  <rect x="40" y="180" width="120" height="30" rx="5" ry="5" fill="#2a9d8f" />
+  <text x="100" y="200" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Fresh Fruits</text>
+</svg>

@@ -1,0 +1,17 @@
+<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg">
+  <!-- Company Logo -->
+  <rect width="200" height="60" fill="transparent"/>
+  
+  <!-- Skyline graphic element -->
+  <path d="M10,40 L30,20 L40,30 L50,15 L60,25 L70,10 L80,20 L90,15 L100,25 L110,10 L120,30 L130,20 L140,35 L150,25 L160,15 L170,30 L180,20 L190,40" 
+        stroke="#2a6049" stroke-width="3" fill="none" />
+  
+  <!-- Circular element representing global trade -->
+  <circle cx="40" cy="30" r="8" fill="#4a7c59" opacity="0.7" />
+  
+  <!-- Company Name -->
+  <text x="100" y="50" font-family="Arial" font-size="16" font-weight="bold" fill="#2a6049" text-anchor="middle">SKYLINE TRANSACT</text>
+  
+  <!-- Tagline -->
+  <text x="100" y="35" font-family="Arial" font-size="8" fill="#4a7c59" text-anchor="middle">AGRICULTURAL EXPORTS</text>
+</svg>

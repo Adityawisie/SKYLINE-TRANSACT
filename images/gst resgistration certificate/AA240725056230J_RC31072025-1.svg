@@ -1,0 +1,484 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="595" height="842" viewBox="0 0 595 842">
+<defs>
+<clipPath id="clip_2">
+<path transform="matrix(1,0,0,-1,220,632)" d="M0 0H130V40H0Z"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(1,0,0,-1,220,632)" d="M0 0H130V40H0Z"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(1,0,0,-1,220,632)" d="M0 0H100V100H0Z"/>
+</clipPath>
+<clipPath id="clip_5">
+<path transform="matrix(.36,0,0,-.36,267,630)" d="M0 0H100V100H0Z"/>
+</clipPath>
+<clipPath id="clip_6">
+<path transform="matrix(1,0,0,-1,220,632)" d="M0 0H130V40H0Z"/>
+</clipPath>
+<clipPath id="clip_7">
+<path transform="matrix(.36,0,0,-.36,267,630)" d="M0 0H100V100H0Z"/>
+</clipPath>
+<clipPath id="clip_8">
+<path transform="matrix(1,0,0,-1,220,632)" d="M0 28H130V40H0Z"/>
+</clipPath>
+</defs>
+<text fill="#e0e0e0" xml:space="preserve" transform="matrix(.70711 -.70711 .70711 .70711 297.5 421)" font-size="52" font-family="Helvetica" font-weight="bold"><tspan y="0" x="-302.01 -261.55403 -229.78202 -198.01001 -166.238 -137.326 -122.87 -93.958 -62.186 -30.414002 -15.958 18.726002 47.638006 67.866008 96.77801 111.23401 140.14601 169.05802 197.97002 212.42603 244.19803 273.11006">Goods and Services Tax</tspan></text>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width="5" stroke-linecap="butt" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M0 0H595V842H0Z"/>
+<g transform="matrix(.25,0,0,.25,269.75,36)">
+<image id="image_0" width="222" height="222" xlink:href="data:image/jpeg;base64,
+/9j/4AAQSkZJRgABAQEA3ADcAAD/4QAiRXhpZgAATU0AKgAAAAgAAQESAAMAAAAB
+AAEAAAAAAAD/2wBDAAIBAQIBAQICAgICAgICAwUDAwMDAwYEBAMFBwYHBwcGBwcI
+CQsJCAgKCAcHCg0KCgsMDAwMBwkODw0MDgsMDAz/2wBDAQICAgMDAwYDAwYMCAcI
+DAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwM
+DAz/wAARCADeAN4DASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQF
+BgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKB
+kaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVW
+V1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKz
+tLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QA
+HwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQA
+AQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcY
+GRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOE
+hYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX
+2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9/KKKKACiiigAoooo
+AKRgD1pScComulWgBFff91vu9Rihpdny5256GuN+Lfx88J/Azw1eav4q17TtLsNP
+XfN5kyeYR/u5zXiv7NX/AAV7+Af7XHjZvDfgfxkt7qquUWO4tnt1cjrtZ8A/hQB9
+NTcR5+96CvlL/goL/wAFY/h7/wAE9pdL0zxHJNf+INdLCz06CJ5JJdvX7oJ4r6pl
+mJTP3c42sOc1+WP/AAUS8BaPB/wWv/Z/1VdUsxJeJqC37XCLLDp7eThDIGyq5PTO
+KANfxj/wXg+Imt6ZDN4F+B19rdvfLttrmS8NvyeBkMOOT3rz7Sv+Cif7cngXV5/E
+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"/>
+</g>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="12" font-family="Times" font-weight="bold"><tspan y="-732.5" x="243.5 252.836 258.836 264.836 270.164 275.492 282.164 292.16 297.488 304.16 308.156 311.156 317.156 321.152 324.152 328.82 335.492 342.164 345.5">Government of India</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="11" font-family="Times" font-weight="bold"><tspan y="-716" x="251.36 258.081 263.581 268.465 277.628 280.378 288.936 295.052 302.389 305.139 313.081 320.418 328.976 332.639 338.139">Form GST REG-06</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Times" font-style="italic"><tspan y="-701" x="262.91999 265.41999 269.31 274.31 278.75 283.19 285.69 291.8 296.8 299.58 304.02 306.52 311.52 316.52 319.84999 324.84999 328.17997"> [See Rule 10(1)]</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="12" font-family="Times" font-weight="bold"><tspan y="-683" x="237.01999 245.68399 251.012 257.012 260.348 265.016 269.012 274.34 280.34 284.336 287.672 293.672 300.344 303.344 312.008 317.336 322.664 326.66 329.996 333.992 337.328 342.656 348.656 352.652">Registration Certificate</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="11" font-family="Times" font-weight="bold"><tspan y="-666.5" x="35.999986 38.749986 41.499986 44.249986 46.999986 49.749986 52.499986 55.249986 57.999986 60.749986 63.499986 71.441989 76.32599 81.82599 84.88399 89.16299 92.82599 97.70999 103.20999 106.87299 109.93099 115.43099 121.54699 124.29699 132.23899 138.35498 147.51798 153.63397 158.51798 163.40198 166.15198 169.81497">          Registration Number : </tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="11" font-family="Times" font-weight="bold"><tspan y="-666.5" x="172.56497 178.06497 183.56497 192.12297 199.45998 207.40198 214.12297 220.23897 225.73897 231.23897 236.73897 242.23897 249.57598 255.07598 262.41297">24QLYPS8660B1Z4</tspan></text>
+<text xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="12" font-family="Helvetica"><tspan y="-648.5" x="35.999986"> </tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="9" font-family="Helvetica" font-weight="bold"><tspan y="-80" x="35.999986 41.498987 46.997987 49.499986 54.503988 57.005987 59.507986 64.511989 67.013988 72.01798 74.51998 79.52398 84.52798 89.531978 92.52898 97.532978 105.53397 108.03597 113.53497 118.53897 124.03797 129.04198 132.54299 137.54698 140.54398 145.54798 151.04697 153.54897 159.04796 161.54996 167.04895 169.55095 172.54795 177.55194 180.05394 182.55594 187.55994 190.06194 195.06594 197.56793 203.06693 208.56592 213.56992 219.06891 221.5709 228.06891 233.0729 238.5719 241.0739 246.0779 249.07489 252.5759 257.5799 260.5769 263.07893 268.5779 274.0769 276.57893 283.0769 288.0809 291.5819 294.57893 297.08094 300.07795 302.57997 307.58396 312.58796 315.58497 320.58897 323.09098 325.593 330.597 335.60099 341.09999 346.10398 351.60298 354.10499 359.60398 364.60798 369.61198 374.61598 380.11497 382.61698 388.11598 393.61497 396.11698 399.11399 404.61299 409.61698 412.119 417.123 422.62199 428.12098 431.62199 437.12098 442.12498 447.12898 449.63099 452.133 457.632 460.629 463.131 468.135 473.634 479.133 481.635 484.13703 489.14103 494.14503 497.14204 499.64405 505.14305 510.64204 513.14407 518.64309 522.14407 527.1481 532.6471 535.6441 540.64816">This is a system generated digitally signed Registration Certificate issued based on the approval of application granted</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="9" font-family="Helvetica" font-weight="bold"><tspan y="-66.5" x="35.999986 41.498987 46.997987 49.499986 54.503988 59.507989 62.009988 67.013988 72.01798 74.51998 79.52398 84.52798 89.531978 94.53597 97.03797 102.53697 107.54097 110.04297 113.03997 118.53897 123.54297 126.04497 128.54697 134.04596 137.54697 140.04897 145.05297 150.55196 153.05396 158.05796 161.05495 163.55695 169.05594 174.55493 179.55893 182.06093 184.56293 189.56693 195.06592 198.06291 203.5619 209.0609 212.5619 215.0639 218.0609 223.0649">on 31/07/2025 by the jurisdictional authority.</tspan></text>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 628.5H62.989999V648.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 628.5H208.08V648.5H62.99Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M208.08 628.5H559V648.5H208.08Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 608.5H62.989999V628.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 608.5H208.08V628.5H62.99Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M208.08 608.5H559V628.5H208.08Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 573.5H62.989999V608.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 573.5H208.08V608.5H62.99Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M208.08 573.5H559V608.5H208.08Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 553.5H62.989999V573.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 553.5H208.08V573.5H62.99Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M208.08 553.5H559V573.5H208.08Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 373.5V553.5M36 373.5V553.5M36 553.5H62.99"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M208.08 373.5V553.5M62.99 373.5V553.5M62.99 553.5H208.08"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M559 373.5V553.5M208.08 373.5V553.5M208.08 553.5H559"/>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-636.5" x="38 40.78 43.559999 49.12">  1.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-636.5" x="64.99 71.1 76.659999 82.77 88.329998 91.10999 93.88999 101.10999 106.66999 115.55999">Legal Name</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-636.5" x="210.08 217.3 223.97 231.19 237.86 245.08 247.86 254.53 261.75 268.42 275.64 283.97">HARSH SHARMA</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-616.5" x="38 40.78 43.559999 49.12">  2.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-616.5" x="64.99 71.1 74.99 80.549999 86.659999 92.21999 94.99999 102.21999 107.77999 116.66999 122.22999 125.00999 127.789989 130.56999 133.9 136.68 142.23999 148.34999">Trade Name, if any</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-616.5" x="210.08 216.75 221.75 226.75 232.31 234.53 240.09 245.65 248.43 254.54 257.87 263.43 268.99 273.99 279.55 284.55">SkyLine Transact</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-596.5" x="38 40.78 43.559999 49.12">  3.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-596.5" x="64.99 72.21 78.32 84.43 87.21 90.54 93.32 99.43 105.54 111.1 113.88 116.659999 119.99 123.88 129.44 135.55 141.11 143.89 150 155.56 164.45 170.01 175.56999 178.34999 181.12999 183.90999">Additional trade names, if</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-586.5" x="64.99 70.549999 76.659999">any</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-561.5" x="38 40.78 43.559999 49.12">  4.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-561.5" x="64.99 72.21 78.32 84.43 89.99 93.32 96.1 99.43 105.54 108.87 111.65 117.76 123.87 126.65 132.76 136.09 138.87 146.09 152.2 157.76 160.54 166.65 172.20999 177.76999">Constitution of Business</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-561.5" x="210.08 216.75 220.08 225.64 231.2 234.53 236.75 242.31 245.09 250.65 253.98 258.97999 264.53999 266.75999">Proprietorship</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-541.5" x="38 40.78 43.559999 49.12">  5.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-541.5" x="64.99 72.21 78.32 84.43 88.32 93.88 99.439998 104.99999 107.77999 113.88999 117.21999 119.99999 126.66999 130.56 133.34 139.45 145.01 147.79 153.9 159.45999 162.23999 165.01999 171.68999 174.46999 180.02999 185.58998 191.14998 193.92998 200.03998">Address of Principal Place of</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-531.5" x="64.99 72.21 78.32 83.88 86.659999 92.77 98.329998 103.88999">Business</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-539" x="210.08 216.19 218.97 225.08 231.19 235.08 237.86 245.08 251.19 253.97">Floor No.:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-539" x="257.3 260.08 265.63999 271.19999"> 904</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-526.5" x="210.08 217.3 223.41 226.19 228.97 235.08 237.86 243.97 250.08 252.86 260.08 266.18998 268.96998 271.74998 277.85997 280.63996 286.19996 289.52995 292.30995 299.52995 305.63993 308.41993">Building No./Flat No.:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-526.5" x="311.7499 314.5299 321.19993 323.97993 329.53993 331.75993 337.31993 342.31993"> E block</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-514" x="210.08 217.3 222.86 231.75 237.31 240.09 247.87 251.2 253.98 260.65 264.54 270.1 278.99003 281.77003 287.33003 292.89 298.45 301.23 308.45 314.56 317.34 320.12 326.22999 329.00999 335.11997 341.22996">Name Of Premises/Building:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-514" x="344.55995 347.33995 354.55995 360.11994 365.11994 370.11994 375.67994 381.23994 384.01994 387.3499 392.9099 395.6899 402.35993 407.35993 412.91993 415.13993 418.4699"> Nakshatra Aspire</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-501.5" x="210.08 217.3 223.41 228.97 235.08 237.86 244.53 247.86 251.75 257.31 262.87 266.19999">Road/Street:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-501.5" x="269.52998 272.30998 279.52998 285.08998 288.41996 293.97996 296.19996 298.97996 305.64997 311.20997 313.98997 321.20997 326.76997 329.54997 336.76997 342.32997 347.88996"> Narol Vatwa Road</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-489" x="210.08 217.3 222.86 228.42 232.31 238.42 243.98 246.76 252.87 258.43 264.53999 270.64997 279.53999 285.09999 288.99 294.55">Nearby Landmark:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-489" x="297.87998 300.65998 307.87998 313.43998 316.76997 322.32997 324.54997 327.32997 333.99998 339.55998 345.11997 347.89997 354.56999 360.12998 365.12998 367.90998 370.68998 378.46998 381.24998 384.02998 386.24998 391.24998"> Narol Sub Post Office</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-476.5" x="210.08 216.19 222.3 227.86 233.42 236.2 238.98 242.31 247.87 250.65 257.32 263.43 269.53999 272.31999 278.42997 284.53996 290.09996 295.65995 298.43995 301.21995 304.54994 310.10993">Locality/Sub Locality:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-476.5" x="313.4399 316.2199 323.4399 328.9999 333.9999 338.9999 344.5599 350.1199 352.8999 356.2299 361.7899 364.5699 371.2399 376.2399 381.7999 384.0199 387.34989"> Nakshatra Aspire</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-464" x="210.08 217.3 220.08 223.41 228.97 231.75 237.86 243.97 251.75 257.86 260.63999 267.31 270.09 272.87 275.65 281.21 287.31999 292.87998">City/Town/Village:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-464" x="296.20997 298.98997 305.65998 311.21998 319.54997 325.10997 330.66996 336.22996 341.78996 347.34996"> Ahmedabad</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-451.5" x="210.08 217.3 220.08 225.64 228.97 232.86 235.64 241.2 244.53">District:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-451.5" x="247.86 250.64 257.31 262.87 271.19999 276.75999 282.31999 287.87998 293.43998 298.99998"> Ahmedabad</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-439" x="210.08 216.75 220.08 225.64 228.97 234.53">State:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-439" x="237.86 240.64 248.42 253.98 256.19999 261.75999 265.08998 270.64997"> Gujarat</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-426.5" x="210.08 216.75 219.53 226.75 229.53 236.75 242.86 248.97 254.53">PIN Code:</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-426.5" x="257.86 260.63999 266.19999 271.75999 277.31999 282.87998 288.43998"> 382405</tspan></text>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 353.5H62.989999V373.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 353.5H208.08V373.5H62.99Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M208.08 353.5H559V373.5H208.08Z"/>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-361.5" x="38 40.78 43.559999 49.12">  6.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-361.5" x="64.99 72.21 77.77 81.1 86.659999 89.439998 95.549999 98.88 101.659999 107.77 110.549999 116.10999 122.21999 124.99999 127.77999 130.56 133.89">Date of Liability</tspan></text>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 333.5H62.989999V353.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 333.5H208.08V353.5H62.99Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M208.08 333.5H275.56V353.5H208.08Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M275.57 333.5H383.54V353.5H275.57Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M383.54 333.5H451.02003V353.5H383.54Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M451.03 333.5H559V353.5H451.03Z"/>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-341.5" x="38 40.78 43.559999 49.12">  7.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-341.5" x="64.99 71.659999 77.21999 81.10999 83.88999 89.99999 96.10999 98.88999 104.99999 108.329998 111.10999 117.77999 123.33999 126.11999 128.9 135.01 137.79 141.12">Period of Validity</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-341.5" x="210.08 216.19 219.52 225.08">From</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-341.5" x="277.57 283.13 288.69 291.47 297.03 302.59 305.37 310.93 316.49 322.05">31/07/2025</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-341.5" x="385.54 391.65">To</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-341.5" x="453.03 460.25 465.81 468.59 471.37 478.04 483.6 489.16 491.38 493.6 498.6 504.16 509.72 511.94">Not Applicable</tspan></text>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 293.5H62.989999V333.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 293.5H208.08V333.5H62.99Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M559 293.5V293.5 333.5 333.5Z"/>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-321.5" x="38 40.78 43.559999 49.12">  8.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-321.5" x="64.99 71.1 76.659999 82.77 88.329998 91.10999 97.21999 100.549999 103.329998 110.549999 116.10999 122.21999 124.99999 130.56 133.89 137.78 143.34 146.67 149.45 155.56">Type of Registration</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-316.5" x="210.08 217.3 222.86 228.42 233.98 236.2 241.76">Regular</tspan></text>
+<g transform="matrix(.5217391,0,0,.5217391,385.54,510.5)">
+<image id="image_1" width="69" height="69" xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAEUAAABFCAAAAAA55nT1AAAACXBIWXMAAA7EAAAO
+xAGVKw4bAAAC40lEQVR4nN2U0XLbMAwE8f8/zU4jYW+PcR867VMcj2UrIojD7XHO
+/3jNz6wyz+vrx/Pt9/X5/vX59eDMc/N5D6uo8hZ8nnzWpchT4f2+q949XWDedTS0
+Rc+HVfS3qz5UeR5Xu/NKeDWo5p+qbLE0Eu188uN7FUk4rdmLXkl5sueCR3/1d3l0
+O5+vEfDas0bO91VQMeUWnmQiIQAAPBJ2yVWz3b1U6Iz62VLvYNbVTBmQ8Ufg0PDe
+kbboSFdHXcAE81leaAZkFi+a3UI8ebrKdmEYwpRHuf2ZKnu005tU3kgA49iVqSeP
+yg5rL1O3BJJDR3l0HQckDr8kh8LJZ5tGmyFH7VKcruy0MEpCMt4z6IN0jKxeitzt
+PzJgGHYEoC+hTZFBr+pOpvYhR3CZKWjGLqXM3E6TGQVKs0mH6akU6RQ4JSuaLi0t
+RRvGAKTsvZgeXpw3ZdqUVMf+n5KdLTSXEeQav48ipQF2KgGM0HDdRBLDcDDqBSPD
+RuTReU9WZGku6UV+lyx50Hrcy/pgqqx2hGWTG3aVRJHiDIhm7VDYOHlwuJpMvaKw
+C1rRYXvIK7YV7WypHGWPnD08tgLaIe+thsbbJ6MMvdoRdWJXOmSzvQebzAg3k0Zc
+Uf4cuCs7GqB7kUV7usiF3Arpzpiclkmn9xf8Vn3NJahxcgjLAimqt8niJXInJJe3
+ArGzaPQ0Kug5usAuw62u8hH8a22CJG7JlKfLODBJ95r97sjTPVMNXOCJJt5JqXmp
+oyxQcYxkzhHViqI+SGlEzLiQXXFljyToqNpxpg5J/JDGQ7ridsKwYnd3u17U6eQq
+n3XEHasDOCt6yWTUwVT0pbSKVRUaj+6cDwN1BUTRUI0Zc2lUdsz2rUhY19zOOqV0
+Yujm/DvAK0LEHn45n/IhA8UEoD2l4xouGJ1vVWJRR7MCoRU3cHitZt0jEK4FtuvD
+XBQJZboOBDJ458hAMPs5o10Du0+ESsA/vn5elV/d0hKJDsRXrQAAAABJRU5ErkJggg=="/>
+</g>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 273.5H62.989999V293.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M62.99 273.5H208.08V293.5H62.99Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M208.08 273.5H559V293.5H208.08Z"/>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-281.5" x="38 40.78 43.559999 49.12">  9.</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-281.5" x="64.99 71.659999 77.21999 81.10999 84.439998 87.21999 92.77999 98.88999 101.66999 107.22999 111.11999 116.679988 119.459987 125.569988 128.89998 131.67998 138.89998 145.00998 151.11998 155.00998 161.11998 166.67998 169.45998 175.56998">Particulars of Approving</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-281.5" x="210.08 217.3 222.86 228.42 231.2 234.53">Centre</tspan></text>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 208.5H559V273.5H36Z"/>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-261.5" x="38 44.670003 47.45 53.56 59.670003 65.23 68.560009 74.670009 78.560009">Signature</tspan></text>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 188.5H210.33V208.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M210.33 188.5H559V208.5H210.33Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 168.5H210.33V188.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M210.33 168.5H559V188.5H210.33Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 148.5H210.33V168.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M210.33 148.5H559V168.5H210.33Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 128.5H210.33V148.5H36Z"/>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M210.33 128.5H559V148.5H210.33Z"/>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-196.5" x="38 45.22 50.780004 59.670003">Name</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-196.5" x="212.33 219.55 225.11 230.11 235.67 240.67 246.23 249.01 257.34 262.9 267.9 273.46 276.78999 282.34999 290.67997 293.45997 299.56996 305.12995 310.68995 316.24995 318.46995 320.68995 325.68995 331.24995">Rakesh Mayaram Thapliyal</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-176.5" x="38 45.22 50.780004 56.340005 59.120004 65.23 71.340007 76.9 80.23 83.01 89.12">Designation</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-176.5" x="212.33 219 224.56 230.12 235.68 239.01 241.23 246.79 249.56999 255.12999 260.69 266.25 271.81 277.37">Superintendent</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-156.5" x="38 43.56 49.670003 53.56 56.34 61.9 68.01 70.79 76.35 79.68 82.46 88.57 94.68 100.24 103.02 105.799999 113.579998 116.909999 120.24 123.02 128.58">Jurisdictional Office</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-156.5" x="212.33 219 226.22 234.55 241.22 248.44 255.11 261.78 268.45">AHMEDABAD</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica" font-weight="bold"><tspan y="-136.5" x="38 45.22 50.780004 54.11 59.670003 62.45 68.56 71.89 74.67 77.45 83.009998 88.56999 94.67999 100.23999 103.01999 109.12999 112.45999 115.23999 122.45999 128.01999 131.90999 135.23999 138.01999 141.34999 144.12999 149.68999 155.24999 158.57999">Date of issue of Certificate</tspan></text>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-136.5" x="212.33 217.89 223.45 226.23 231.79 237.34999 240.12999 245.68999 251.24999 256.81">31/07/2025</tspan></text>
+<path transform="matrix(1,0,0,-1,0,842)" stroke-width=".5" stroke-linecap="square" stroke-miterlimit="10" stroke-linejoin="miter" fill="none" stroke="#000000" d="M36 93.5H559V128.5H36Z"/>
+<text fill="#000099" xml:space="preserve" transform="matrix(1 0 -0 1 0 842)" font-size="10" font-family="Helvetica"><tspan y="-116.5" x="38 45.22 50.780004 53.56 59.120004 61.9 64.68 70.79 76.35 81.909999 84.689998 88.02 93.579998 99.13999 101.35999 106.35999 109.13999 112.46999 118.02999 120.80999 123.02999 128.59 134.15 136.93 141.93 147.48999 150.81999 153.59999 155.81999 158.59999 160.81999 165.81999 171.37999 174.15999 179.71999 182.49999 184.71999 189.71999 192.49999 195.82999 201.38999 206.94998 212.50998 214.72998 218.05998 223.61998 229.17998 231.95998 234.73998 240.29998 243.07997 248.63997 254.19997 256.97999 262.53999 265.86997 271.42997 279.75996 281.97996 287.53996 293.09996 298.65995 301.43995 303.65995 308.65995 311.43995 316.99995 319.21995 324.21995 329.77995 331.99995 337.55995 342.55995 348.11994 353.67994 356.45994 362.01994 364.79994 367.57994 373.13993 375.35993 377.57994 380.35993 385.91993 388.13993 393.69993 398.69993 404.25993 409.25993 412.03993 417.5999 420.3799 423.1599 428.7199 434.2799 439.2799 441.4999 447.0599 452.6199 457.6199 462.6199 465.3999 467.6199 473.1799 475.9599 478.7399 484.2999 489.8599 492.6399 499.3099 502.0899 507.6499 510.4299 515.9899">Note: The registration certificate is required to be prominently displayed at all places of business in the State.</tspan></text>
+<g clip-path="url(#clip_2)">
+<g clip-path="url(#clip_3)">
+<g clip-path="url(#clip_4)">
+</g>
+<g clip-path="url(#clip_5)">
+<path transform="matrix(.036000004,0,0,-.036000004,270.24,630)" d="M313 292C313 404 325 453 432 529 478 561 504 597 504 645 504 736 440 760 391 760 286 760 271 681 265 626V625H100C100 828 253 898 381 898 451 898 679 878 679 650 679 555 628 499 538 435 488 399 467 376 467 292H313ZM308 214H478V50H308Z"/>
+<path transform="matrix(.036000004,0,0,-.036000004,270.24,630)" d="M287 318C287 430 299 479 406 555 451 587 478 623 478 671 478 762 414 786 365 786 260 786 245 707 239 652V651H74C74 854 227 924 355 924 425 924 653 904 653 676 653 581 602 525 512 461 462 425 441 402 441 318H287ZM282 240H452V76H282Z" fill="#ffff66"/>
+<path transform="matrix(.036000004,0,0,-.036000004,270.24,630)" stroke-width="1.2" stroke-linecap="butt" stroke-miterlimit="4" stroke-linejoin="miter" fill="none" stroke="#707070" d="M287 318C287 430 299 479 406 555 451 587 478 623 478 671 478 762 414 786 365 786 260 786 245 707 239 652V651H74C74 854 227 924 355 924 425 924 653 904 653 676 653 581 602 525 512 461 462 425 441 402 441 318H287ZM282 240H452V76H282Z"/>
+</g>
+<g clip-path="url(#clip_6)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 220 632)" font-size="7.69" font-family="Helvetica"><tspan y="-18.31" x="2 7.5521805 9.25936 13.535001 15.242181 17.380002 21.655642 23.362822 25.070002 28.915 31.052823 34.897825 36.605005 40.880647 45.15629 49.43193 53.707574 55.845396 60.121034 63.966035 66.10385 71.65603 76.78526 78.92308 84.9059 90.88872 96.87154 102.42371 107.55295 109.690769 114.81999 120.37217">Digitally signed by DS GOODS AND</tspan><tspan y="-10.63" x="2 7.1292307 12.258461 17.810643 22.939873 25.077694 30.629876 35.759107 40.888338 43.026159 47.724748 52.853979 57.983209 60.12103 65.67321 70.802448 75.50104 82.7604 88.74322 94.295398 99.42462 101.56244 105.83808">SERVICES TAX NETWORK 15</tspan><tspan y="-2.94" x="2 7.5521805 11.827821 13.965641 18.241282 20.3791 22.516922 26.792563 31.068203 35.34384 39.619485 41.757307 46.032945 50.308588 52.446409 56.722047 60.99769 63.13551 67.41115 71.68679 73.82461 78.10025 82.37589 84.51371 88.78935 93.064998 95.20281 97.34063 102.469867">Date: 2025.07.31 15:15:46 IST</tspan></text>
+</g>
+<g clip-path="url(#clip_7)">
+</g>
+<g clip-path="url(#clip_8)">
+<text xml:space="preserve" transform="matrix(1 0 -0 1 220 632)" font-size="8" font-family="Helvetica"><tspan y="-30" x="2 7.3360006 9.112 13.560001 18.008002 22.456002 24.680003 29.128003 31.792002 36.24 38.464 44.24 48.688005 50.912004 53.136 58.472 62.920003 65.584 67.36 69.584 71.36 75.808">Signature Not Verified</tspan></text>
+</g>
+</g>
+</g>
+</svg>

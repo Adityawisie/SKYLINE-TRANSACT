@@ -1,0 +1,46 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Contact Form illustration -->
+  <rect width="200" height="200" fill="#f8f8f8" rx="10" ry="10"/>
+  
+  <!-- Form paper -->
+  <rect x="40" y="30" width="120" height="140" fill="#fff" stroke="#ddd" stroke-width="2" rx="5" ry="5" />
+  
+  <!-- Form header -->
+  <rect x="40" y="30" width="120" height="20" fill="#457b9d" rx="5" ry="5" />
+  <text x="100" y="45" font-family="Arial" font-size="10" fill="white" text-anchor="middle">CONTACT US</text>
+  
+  <!-- Form fields -->
+  <!-- Name field -->
+  <rect x="50" y="60" width="100" height="15" fill="#f1faee" stroke="#a8dadc" stroke-width="1" rx="2" ry="2" />
+  <text x="55" y="70" font-family="Arial" font-size="6" fill="#1d3557">Name</text>
+  
+  <!-- Email field -->
+  <rect x="50" y="85" width="100" height="15" fill="#f1faee" stroke="#a8dadc" stroke-width="1" rx="2" ry="2" />
+  <text x="55" y="95" font-family="Arial" font-size="6" fill="#1d3557">Email</text>
+  
+  <!-- Subject field -->
+  <rect x="50" y="110" width="100" height="15" fill="#f1faee" stroke="#a8dadc" stroke-width="1" rx="2" ry="2" />
+  <text x="55" y="120" font-family="Arial" font-size="6" fill="#1d3557">Subject</text>
+  
+  <!-- Message field -->
+  <rect x="50" y="135" width="100" height="30" fill="#f1faee" stroke="#a8dadc" stroke-width="1" rx="2" ry="2" />
+  <text x="55" y="145" font-family="Arial" font-size="6" fill="#1d3557">Message</text>
+  
+  <!-- Submit button -->
+  <rect x="80" y="175" width="40" height="15" fill="#e63946" rx="3" ry="3" />
+  <text x="100" y="185" font-family="Arial" font-size="8" fill="white" text-anchor="middle">SUBMIT</text>
+  
+  <!-- Decorative elements -->
+  <!-- Paper clip -->
+  <path d="M155,40 L165,50 L165,60 L160,65 L155,60 L155,50 L160,45 L160,55 L158,57 L156,55 L156,47 L158,45 Z" 
+        fill="#a8dadc" stroke="#457b9d" stroke-width="0.5" />
+  
+  <!-- Pencil -->
+  <path d="M160,80 L170,90 L165,95 L155,85 Z" fill="#ffb703" />
+  <path d="M155,85 L153,90 L158,95 L160,90 Z" fill="#e76f51" />
+  <line x1="170" y1="90" x2="172" y2="88" stroke="#666" stroke-width="0.5" />
+  
+  <!-- Envelope icon -->
+  <rect x="155" y="110" width="20" height="15" fill="#a8dadc" stroke="#457b9d" stroke-width="0.5" rx="1" ry="1" />
+  <path d="M155,110 L165,118 L175,110" fill="none" stroke="#457b9d" stroke-width="0.5" />
+</svg>

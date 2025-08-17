@@ -1,0 +1,274 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" version="1.1" width="612" height="792" viewBox="0 0 612 792">
+<defs>
+<clipPath id="clip_0">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M118.75 118.75H2432.8126V3182.8126H118.75Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_1">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 62.5H396.875V100H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_2">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M396.875 62.5H2550V100H396.875Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_3">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M0 3200H2378.125V3237.5H0Z" clip-rule="evenodd"/>
+</clipPath>
+<clipPath id="clip_4">
+<path transform="matrix(.24,0,0,.24,0,0)" d="M2378.125 3200H2550V3237.5H2378.125Z" clip-rule="evenodd"/>
+</clipPath>
+</defs>
+<g clip-path="url(#clip_0)">
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M9 9H732V10H9Z"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M731 9H732V981H731Z"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M9 9H10V981H9Z"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 301H718V379H293Z" fill="#ffffff"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 308H336V328H300Z" fill="#deb887"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 308H467V328H338Z" fill="#deb887"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 308H580V328H469Z" fill="#deb887"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 308H711V328H582Z" fill="#deb887"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 308H336V309H300Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 327H336V328H300Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M335 309V328H336V308" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 308V328L301 327V308" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 308H467V309H338Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 327H467V328H338Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M466 309V328H467V308" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 308V328L339 327V308" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 308H580V309H469Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 327H580V328H469Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M579 309V328H580V308" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 308V328L470 327V308" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 308H711V309H582Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 327H711V328H582Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M710 309V328H711V308" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 308V328L583 327V308" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 330H336V331H300Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 349H336V350H300Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M335 331V350H336V330" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 330V350L301 349V330" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 330H467V331H338Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 349H467V350H338Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M466 331V350H467V330" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 330V350L339 349V330" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 330H580V331H469Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 349H580V350H469Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M579 331V350H580V330" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 330V350L470 349V330" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 330H711V331H582Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 349H711V350H582Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M710 331V350H711V330" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 330V350L583 349V330" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 352H336V353H300Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 371H336V372H300Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M335 353V372H336V352" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M300 352V372L301 371V352" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 352H467V353H338Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 371H467V372H338Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M466 353V372H467V352" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M338 352V372L339 371V352" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 352H580V353H469Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 371H580V372H469Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M579 353V372H580V352" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M469 352V372L470 371V352" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 352H711V353H582Z" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 371H711V372H582Z" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M710 353V372H711V352" fill="#80a6cc"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M582 352V372L583 371V352" fill="#4b6178"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M283 389H728V449H283Z" fill="#ff0000"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 511H294V534H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 511H328V512H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M327 511H328V534H327Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M328 511H718V512H328Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 511H718V534H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 534H294V556H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 533H328V534H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M327 534H328V556H327Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M328 533H718V534H328Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 534H718V556H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 555H328V556H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M328 555H718V556H328Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 576H294V629H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 576H394V577H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M393 576H394V629H393Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M394 576H492V577H394Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M491 576H492V629H491Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M492 576H567V577H492Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M566 576H567V629H566Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M567 576H718V577H567Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 576H718V629H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 629H294V651H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 628H394V629H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M393 629H394V651H393Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M394 628H492V629H394Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M491 629H492V651H491Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M492 628H567V629H492Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M566 629H567V651H566Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M567 628H718V629H567Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 629H718V651H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 651H294V673H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 650H394V651H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M393 651H394V673H393Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M394 650H492V651H394Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M491 651H492V673H491Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M492 650H567V651H492Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M566 651H567V673H566Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M567 650H718V651H567Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 651H718V673H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 673H294V710H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 672H394V673H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M393 673H394V710H393Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M394 672H492V673H394Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M491 673H492V710H491Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M492 672H567V673H492Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M566 673H567V710H566Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M567 672H718V673H567Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 673H718V710H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 710H294V732H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 709H394V710H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M393 710H394V732H393Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M394 709H492V710H394Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M491 710H492V732H491Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M492 709H567V710H492Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M566 710H567V732H566Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M567 709H718V710H567Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 710H718V732H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 731H394V732H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M394 731H492V732H394Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M492 731H567V732H492Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M567 731H718V732H567Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 856H294V879H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 856H325V857H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M324 856H325V879H324Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M325 856H442V857H325Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M441 856H442V879H441Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M442 856H559V857H442Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M558 856H559V879H558Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M559 856H669V857H559Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M668 856H669V879H668Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M669 856H718V857H669Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 856H718V879H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 879H294V946H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 878H325V879H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M324 879H325V946H324Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M325 878H442V879H325Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M441 879H442V946H441Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M442 878H559V879H442Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M558 879H559V946H558Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M559 878H669V879H559Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M668 879H669V946H668Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M669 878H718V879H669Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 879H718V946H717Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 946H294V981H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M293 945H325V946H293Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M324 946H325V981H324Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M325 945H442V946H325Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M441 946H442V981H441Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M442 945H559V946H442Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M558 946H559V981H558Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M559 945H669V946H559Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M668 946H669V981H668Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M669 945H718V946H669Z" fill="#808080"/>
+<path transform="matrix(.75,0,0,.75,28.5,28.5)" d="M717 946H718V981H717Z" fill="#808080"/>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="25" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="198" x="135.70313 153.75313 171.80313 187.5708 205.6208 229.22081 235.47081 253.52082 270.1958 289.6458 299.37083 313.2708 329.9458 347.9958 364.20655 380.88154 390.60655 410.05656 428.10655 434.35655 452.40653 469.0815 486.26466 502.93965 512.6646 527.93966 537.6646 555.7146 571.9214 588.5964">UDYAM REGISTRATION CERTIFICATE</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="240" x="33.265626 43.373628 53.48163 62.311525 72.419528 85.63553 89.13553 99.24353 108.58153 119.473529 124.919528 132.70352 142.04152 152.14952 161.22754 170.56554 176.01154 186.90354 197.01154 200.51154 210.61954 220.72754 233.94355 243.28154 252.61954">UDYAM REGISTRATION NUMBER</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="16" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="241" x="419.14064 430.69264 442.24464 452.33595 463.88795 478.99195 484.31996 499.42396 509.19996 514.52798 522.52798 530.52798 535.85598 543.85598 551.85598 559.85598 567.85598 575.85598 583.85598">UDYAM-MP-16-0045772</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="277" x="68.90625 79.01425 89.12225 102.33826 111.676258 115.176258 126.06825 134.10059 137.60059 146.93859 157.04659 166.38459 175.72258 185.83058 194.38459 204.49259 209.93859 217.72258">NAME OF ENTERPRISE</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="277" x="433.85939 441.64338 452.53538 462.64338 471.98139 477.4274 487.5354 496.8734 500.12696 509.46498 519.57296 529.6809 539.7889 547.5729 557.68087 567.7888">SKYLINE TRANSACT</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="347.65626" x="66.125 75.463 85.571 94.125 103.463 106.963 117.854999 125.884769 129.38477 138.72277 148.83077 158.16876 167.50676 177.61476 186.16876 196.27677 201.72277 209.50676 218.84476">TYPE OF ENTERPRISE </tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="15" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="342" x="222.35938">*</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="322" x="303.76564 311.54963 321.65763 328.65763">SNo.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="322" x="346.29689 356.40489 360.29689 367.29689 372.7429 378.1889 382.0809 386.7429 390.6349 396.8509 403.8509 408.51289 412.40489 419.40489 427.18888 430.167 438.7256 444.9416 451.9416">Classification Year</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="322" x="476.01564 485.35365 493.13764 497.79963 504.01564 510.23164 518.0156 524.2316 528.12368 533.56967 539.78567 543.0283 551.32717 558.32717 566.11117">Enterprise Type</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="322" x="590.21878 600.3267 604.21878 611.21878 616.66476 622.1107 626.00277 630.66476 634.55679 640.77279 647.77279 652.43478 656.3268 663.3268 671.1108 674.6108 684.71878 691.71878 696.38076">Classification Date</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="344" x="314.46876">1</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="344" x="378.89064 385.89064 392.89064 399.89064 406.89064 411.5526 418.5526">2025-26</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="344" x="506.03126 519.24728 523.1393 529.3553 535.3096">Micro</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="344" x="614.5156 621.5156 628.5156 632.40768 639.40768 646.40768 650.2997 657.2997 664.2997 671.2997">01/04/2025</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="366" x="314.46876">2</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="366" x="378.89064 385.89064 392.89064 399.89064 406.89064 411.5526 418.5526">2024-25</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="366" x="506.03126 519.24728 523.1393 529.3553 535.3096">Micro</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="366" x="614.5156 621.5156 628.5156 632.40768 639.40768 646.40768 650.2997 657.2997 664.2997 671.2997">16/01/2025</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="423" x="85.953128 99.16913 109.27713 116.27713 127.16913 137.27713 140.00489 150.11289 160.22089 169.55889 175.00489 185.11289 190.55889 199.89688">MAJOR ACTIVITY</tspan></text>
+<text fill="#ffff00" xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="20" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="417" x="458.26564 471.60563 486.04563 500.48564 514.9256 522.7056 537.1456">TRADING</tspan></text>
+<text fill="#ffff00" xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="15" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="435" x="307.09376 312.08876 321.25376 328.75376 335.13819 338.88819 346.38819 353.88819 361.38819 365.5582 369.7282 373.89823 382.23823 389.73823 393.48823 401.82823 408.48823 416.82823 423.48823 428.48323 432.65324 437.64823 443.48323 447.23323 454.73323 459.7282 463.4782 472.64323 479.30323 483.47325 490.97325 497.63325 501.80326 506.79826 514.2982 518.0482 526.38827 533.0482 539.7082 544.7032 552.2032 558.5708 562.3208 572.3258 578.9858 587.3258 595.66586 599.8358 608.17587 615.67587 620.67086 629.8358 638.17587 648.18087 653.17587 656.92587 668.5958 679.42587 688.05569 698.8857">[For availing benefits of Priority Sector Lending(PSL) ONLY]</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="471" x="68.890628 76.67463 87.56663 97.67463 103.12063 113.22863 121.80078 125.30078 135.40879 144.48242 153.82042 163.15842 174.05042 184.94242 194.55567 204.14649 207.64649 218.53849">SOCIAL CATEGORY OF</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="487" x="90.046878 99.38487 109.492877 118.83087 128.93888 138.27687 146.83087 156.93888 166.27687 176.38488 185.72287 195.83087">ENTREPRENEUR</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="479" x="470.875 481.767 491.105 501.213 510.55104 520.659 530.76699">GENERAL</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="538" x="87.59375 97.70175 107.80975 121.02576 130.36376 133.86376 144.75576 152.78809 156.28809 166.39609 176.50409 181.95009 191.28809 195.95009 203.73409">NAME OF UNIT(S)</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="526" x="297 303.672 306.672 315.336 321.336">S.No.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="526" x="482 490.664 496.664 506.66 511.988 514.98806 520.98806 524.984 527.984 536.648 543.32 546.656 550.652 554.64797 559.316">Name of Unit(s)</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="548" x="297">1</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="548" x="331.34376 338.01576 344.68775 350.68775 358.69175 362.02775 368.69975 374.02775 376.8125 383.92579 389.25379 395.25379 401.92579 406.59379 412.59379 417.92179">SkyLine Transact</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="658" x="25.140625 36.032629 44.586629 53.14063 58.586629 68.694629 78.80263 87.368167 90.0957 100.203708 110.31171 120.41971 130.52771 139.8657 147.6497 155.4337 158.9337 169.8257 177.86914 181.36914 190.70714 200.81514 210.15314 219.49114 229.59914 238.15314 248.26114 253.70714 261.49116">OFFICAL ADDRESS OF ENTERPRISE</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="599" x="297 304.332 307.668 313.668 317.664 321 329.664 335.664 341.664 346.992 350.328 358.332 361.668 367.668 372.996">Flat/Door/Block</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="614" x="297 305.664 311.664">No.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="599" x="397.07814 405.08213 413.74613 422.41014 431.07414 435.74214 444.40614 453.74214 462.40614">BADRIDHAM</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="614" x="397.07814 405.74214 414.40614 423.74214 432.40614 441.07014 444.07014 450.07014 456.07014">NAGAR 243</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="591" x="494.67189 503.33589 509.33589 519.33187 524.65988 527.65988 533.65988">Name of</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="606" x="494.67189 502.00389 507.11134 512.43936 522.4353 525.7713 530.43936 535.76736 540.43539">Premises/</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="621" x="494.67189 502.67588 509.34788 512.6839 516.0199 522.6919 526.0279 532.6999">Building</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="606" x="569.8125 577.8165 586.4805 595.14456 603.80856 608.47659 617.14059 626.47659 635.14059">BADRIDHAM</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="643" x="297 305.2207 308.5567 311.8927 315.2287 321.2287 327.2287 332.5567 335.8927 342.78517 348.78517 357.44917">Village/Town</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="643" x="397.07814 405.74214 413.74613 424.41798 433.08198">DEWAS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="643" x="494.67189 502.67588 506.01188 512.01187 517.33987">Block</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="643" x="569.8125 578.4765">NA</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="665" x="297 305.664 311.664 317.664 324.336 327.672 334.344 338.34 343.45314 348.78114 354.10914 358.10514 361.44114 369.44514 375.44514 382.11714">Road/Street/Lane</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="665" x="397.07814 405.74214 410.41014 419.74613 428.41014 435.08213 438.08213 446.74613 455.41014 464.74613 473.41014">VIKAS NAGAR</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="665" x="494.67189 503.33589 506.67189 510.66789">City</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="665" x="569.8125 578.4765 586.4805 597.15237 605.81637">DEWAS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="695" x="297 303.672 307.668 313.668 317.664">State</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="687" x="397.07814 408.40614 417.07014 425.73414 435.07014 442.63478">MADHYA</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="702" x="397.07814 404.41014 413.07414 421.73814 430.40214 438.40614 445.07814">PRADESH</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="695" x="494.67189 503.33589 506.67189 511.33988 515.3359 520.6639 523.9999 529.3279">District</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="695" x="569.8125 578.4765 586.4805 597.15237 605.81637 612.48837 615.48837 618.48837 621.48837 628.8203 632.1563 638.8283 641.8283 647.8283 653.8283 659.8283 665.8283 671.8283">DEWAS , Pin 382405</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="724" x="297 308.328 314.328 321 324.336 327.672">Mobile</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="724" x="397.07814 403.07814 409.07814 415.07814 421.07814 427.07814 433.07814 439.07814 445.07814 451.07814">9109797227</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="724" x="494.67189 502.67588 512.6719 518.6719 522.0079 525.3439">Email:</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="724" x="569.8125 576.4845 583.1565 589.1565 592.4925 595.8285 602.5005 607.8285 611.82449 617.15249 623.15249 629.82449 634.4925 640.4925 645.8205 649.81649 660.97647 666.97647 676.9724 682.9724 686.3084 689.6444 692.6444 697.9724 703.9724">Skylinetransact@gmail.com</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="764" x="51.875 61.983 71.05664 80.39464 89.732639 93.232639 104.12463 112.1543 115.6543 121.100299 131.2083 141.3163 152.2083 162.3163 170.8703 181.7623 191.8703 200.94629 210.28429 215.73029 226.62229 236.73029 240.23029">DATE OF INCORPORATION /</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="780" x="36.359376 46.467378 55.805379 66.69738 72.14338 79.92738 89.26538 99.37338 108.45117 117.78917 123.23517 134.12717 144.23517 147.73517 158.62717 166.65918 170.15918 179.49718 189.60518 198.94318 208.28118 218.38918 226.94318 237.05118 242.49718 250.28118">REGISTRATION OF ENTERPRISE</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="772" x="473.60939 480.60939 487.60939 491.50138 498.50138 505.50138 509.39338 516.3934 523.3934 530.3934">13/01/2025</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="816" x="40.59375 50.70175 59.77539 69.11339 78.451389 81.951389 92.84338 100.87305 104.37305 114.48105 125.37305 138.58905 151.80506 161.14305 171.25106 181.35906 190.69705 203.91306 213.25106 223.35906 232.44434 235.94434 246.83634">DATE OF COMMENCEMENT OF</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="832" x="64.359378 72.913379 83.02138 93.913379 104.02138 114.12938 124.23738 133.57538 139.02138 149.91338 160.02138 163.91338 173.25138 183.35938 191.14337 196.58937 206.69738 216.03537 223.81937">PRODUCTION/BUSINESS</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="824" x="473.60939 480.60939 487.60939 491.50138 498.50138 505.50138 509.39338 516.3934 523.3934 530.3934">13/01/2025</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="868" x="73.109378 83.21738 92.291019 101.62901 107.07501 117.96701 128.07501 138.18302 146.75293 150.25293 155.69893 165.80693 175.91493 186.02294 193.80693 203.14493 212.77442">NATIONAL INDUSTRY</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="14" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="884" x="57.6875 67.7955 77.1335 87.2415 95.025508 102.80951 108.25551 116.80951 122.25551 132.36351 141.44824 150.78624 156.23224 167.12424 177.23224 180.73224 190.84024 201.73224 211.84024 221.17824 225.84024 233.62424">CLASSIFICATION CODE(S)</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="871" x="297 303.672 312.336 318.336">SNo.</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="871" x="353.39064 362.05464 366.72264 375.38664 378.38664 384.38664 387.38664 396.05064 399.38664 405.38664 408.72264">NIC 2 Digit</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="871" x="470.29689 478.96089 483.62889 492.29289 495.29289 501.29289 504.29289 512.95687 516.29287 522.29287 525.62887">NIC 4 Digit</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="871" x="583.90628 592.57028 597.2383 605.9023 608.9023 614.9023 617.9023 626.5663 629.9023 635.9023 639.2383">NIC 5 Digit</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="871" x="672.6719 681.3359 686.6639 690.65988 693.99588 699.99588 703.33187 707.3278">Activity</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="893" x="297">1</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="893" x="328.34376 334.34376 340.34376 343.34376 347.33976 350.33976 359.00376 364.33177 368.32777 374.32777 377.66377 380.99977 383.99977 387.99577 393.32377 399.32377 405.99577 411.32377">47 - Retail trade,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="908" x="328.34376 333.67176 339.67176 344.99977 350.32777 356.99977 360.99577 363.99577 369.99577 373.99177 376.99177 386.98777 392.98777 396.98377 402.98377">except of motor</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="923" x="328.34376 334.34376 339.67176 346.34376 349.67976 355.00776 358.34376 363.67176 368.33976 371.33976 377.33976 384.01176">vehicles and</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="938" x="328.34376 338.33976 344.33976 348.33576 354.33576 359.4453 364.77333 370.77333 376.10133 379.43733 384.76533">motorcycles</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="893" x="444.78126 450.78126 456.78126 462.78126 468.78126 471.78126 475.77726 478.77726 488.11326 492.10926 498.78126 504.10926 509.2168 512.2168 517.3262 522.6542 526.65017 532.65017 535.98617">4799 - Other retail</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="908" x="444.78126 449.44926 455.44926 458.78526 464.11326 467.11326 473.78526 479.78526 483.78126 486.78126 490.11726 496.78926 499.78926 504.45726 508.45326 514.45327 519.56448 524.89248 529.5605">sale not in stores,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="923" x="444.78126 449.44926 453.44526 459.44526 462.78126 466.11726 470.78526 473.78526 479.78526 484.89454 487.89454 497.89054 503.89054 509.21855 515.89059 521.21859 525.21456">stalls or markets</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="893" x="562.1719 568.1719 574.1719 580.1719 586.1719 592.1719 595.1719 599.16787 602.16787 611.50387 615.4998 622.1718 627.4998 632.6074 635.6074 640.7168 646.0448 650.0408 656.0408 659.3768">47990 - Other retail</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="908" x="562.1719 566.8399 572.8399 576.1759 581.5039 584.5039 591.1759 597.1759 601.1719 604.1719 607.5079 614.1799 617.1799 621.8479 625.8439 631.8439 636.9551 642.2831 646.9511">sale not in stores,</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="923" x="562.1719 566.8399 570.8359 576.8359 580.1719 583.5079 588.1759 591.1759 597.1759 602.28518 605.28518 615.2811 621.2811 626.60916 633.2811 638.60916 642.6051">stalls or markets</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="893" x="672 679.1133 684.4413 690.4413 697.1133 700.4493 707.1213">Trading</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="960" x="297">2</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="960" x="328.34376 334.34376 340.34376 343.34376 347.33976 350.12306 361.46095 367.46095 371.45695 376.78495 381.89259 384.89259 388.88859 394.21659 400.21659 406.88859 411.55659 418.22859 424.22859 429.55659">50 - Water transport</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="960" x="444.78126 450.78126 456.78126 462.78126 468.78126 471.78126 475.77726 478.77726 485.44926 490.77726 496.77726 499.77726 505.77726 512.4493">5012 - Sea and</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="975" x="444.78126 450.10926 456.10926 462.10926 466.77726 470.77326 476.77326 480.10926 483.10926 487.10527 492.2129 497.5409 500.8769 506.8769 513.5489 517.54489 520.54489 529.20889 535.20889 539.20486 544.53286">coastal freight water</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="960" x="562.1719 568.1719 574.1719 580.1719 586.1719 592.1719 595.1719 599.16787 602.16787 608.83987 614.16787 620.16787 623.16787 629.16787 635.83987">50120 - Sea and</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="975" x="562.1719 567.4999 573.4999 579.4999 584.1679 588.1639 594.1639 597.4999 600.4999 604.49588 609.6035 614.9315 618.2675 624.2675 630.9395">coastal freight</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 28.5 28.5)" font-size="12" font-family="TimesNewRomanPS" font-weight="bold"><tspan y="960" x="672 678.672 684 689.328 695.328 698.664 703.992 709.32">Services</tspan></text>
+</g>
+<g clip-path="url(#clip_1)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="10.66" font-family="ArialMT"><tspan y="30" x="32 37.928575 40.89026 46.818834 52.747407 55.70909 61.637666 67.56624 70.52792 73.48961 79.41818 85.346759 88.30844 94.237018 100.16559 102.53909 109.649219">7/22/25, 10:41 AM</tspan></text>
+</g>
+<g clip-path="url(#clip_2)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="10.66" font-family="ArialMT"><tspan y="30" x="383.57814 390.68824 394.2381 396.60639 402.53498 405.49665 408.4583 411.41999 414.38166 422.07997 428.00856 433.33854 439.2671 448.14695 451.10865 458.80696 464.73554 470.66413 473.0324 478.3624 481.3241 484.87397 490.80256 493.76423 496.1325 502.0611 507.9897 510.95137 518.64968 524.57827 528.1281 531.0898 533.45809 536.41976 538.788 544.11807 550.04666 553.0083">Print : Udyam Registration Certificate</tspan></text>
+</g>
+<g clip-path="url(#clip_3)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="10.66" font-family="ArialMT"><tspan y="1034" x="32 37.928575 40.89026 43.851945 49.780519 55.110506 58.07219 61.033876 63.99556 69.92413 75.85271 81.18269 87.11127 95.99112 99.54097 105.46954 111.39812 113.76642 119.096408 122.05809 125.60794 131.53652 134.4982 136.8665 142.79508 148.72365 151.68534 157.6139 163.54248 168.0813 171.04299 173.41129 179.33986 182.30155 189.99985 195.92842 201.2584 207.18698 216.06684 221.9954 229.69371 235.0237 240.95227 244.50212 247.4638 255.16211 261.0907 266.4207 272.34925 281.2291 287.15766 294.26777 297.8176 300.1859 306.11448 309.07618 316.1863 322.11488 328.04344 330.41175 332.78007 338.11003 344.0386 347.00028 349.3686 355.29716 361.22575 364.1874 370.116 375.44599 381.37455">https://udyamregistration.gov.in/Udyam_User/Udyam_PrintApplication.aspx</tspan></text>
+</g>
+<g clip-path="url(#clip_4)">
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="10.66" font-family="ArialMT"><tspan y="1034" x="769.15628">1</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="10.66" font-family="ArialMT"><tspan y="1034" x="775.09378">/</tspan></text>
+<text xml:space="preserve" transform="matrix(.75 0 0 .75 0 0)" font-size="10.66" font-family="ArialMT"><tspan y="1034" x="778.0625">2</tspan></text>
+</g>
+</svg>

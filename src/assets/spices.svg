@@ -1,0 +1,40 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Spices illustration -->
+  <rect width="200" height="200" fill="#f8f8f8" rx="10" ry="10"/>
+  
+  <!-- Spice bowl -->
+  <ellipse cx="100" cy="130" rx="60" ry="20" fill="#d4a373" />
+  <path d="M40,130 C40,110 160,110 160,130" fill="#d4a373" stroke="#a98467" stroke-width="1" />
+  
+  <!-- Spice mounds -->
+  <ellipse cx="70" cy="115" rx="20" ry="10" fill="#e76f51" />
+  <ellipse cx="100" cy="110" rx="20" ry="10" fill="#e9c46a" />
+  <ellipse cx="130" cy="115" rx="20" ry="10" fill="#d62828" />
+  
+  <!-- Spice sticks (cinnamon) -->
+  <rect x="60" y="60" width="5" height="40" rx="2" ry="2" fill="#774936" transform="rotate(15, 60, 60)" />
+  <rect x="75" y="55" width="5" height="45" rx="2" ry="2" fill="#774936" transform="rotate(-10, 75, 55)" />
+  
+  <!-- Spice seeds -->
+  <circle cx="120" cy="70" r="4" fill="#6c584c" />
+  <circle cx="130" cy="75" r="3" fill="#6c584c" />
+  <circle cx="125" cy="85" r="5" fill="#6c584c" />
+  <circle cx="135" cy="65" r="3" fill="#6c584c" />
+  
+  <!-- Spice powder sprinkles -->
+  <circle cx="90" cy="90" r="2" fill="#e9c46a" />
+  <circle cx="95" cy="85" r="1" fill="#e9c46a" />
+  <circle cx="100" cy="95" r="1.5" fill="#e9c46a" />
+  <circle cx="105" cy="80" r="1" fill="#e9c46a" />
+  <circle cx="110" cy="90" r="2" fill="#e9c46a" />
+  
+  <circle cx="85" cy="75" r="1" fill="#e76f51" />
+  <circle cx="80" cy="80" r="2" fill="#e76f51" />
+  <circle cx="75" cy="85" r="1.5" fill="#e76f51" />
+  <circle cx="70" cy="90" r="1" fill="#e76f51" />
+  <circle cx="65" cy="80" r="2" fill="#e76f51" />
+  
+  <!-- Product label -->
+  <rect x="40" y="150" width="120" height="30" rx="5" ry="5" fill="#774936" />
+  <text x="100" y="170" font-family="Arial" font-size="12" fill="white" text-anchor="middle">Exotic Spices</text>
+</svg>

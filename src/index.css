@@ -1,0 +1,61 @@
+/* src/index.css */ 
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap'); 
+ 
+:root { 
+  --text-color: #333; 
+  --primary-black: #000; 
+  --primary-white: #fff; 
+  --light-grey: #f4f4f4; 
+  --border-color: #ddd; 
+  --green-color: #25D366; 
+} 
+ 
+body { 
+  margin: 0; 
+  font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', 
+    sans-serif; 
+  -webkit-font-smoothing: antialiased; 
+  -moz-osx-font-smoothing: grayscale; 
+  color: var(--text-color); 
+  background-color: var(--primary-white); 
+} 
+ 
+* { 
+  box-sizing: border-box; 
+} 
+ 
+.container { 
+  max-width: 1200px; 
+  margin: 0 auto; 
+  padding: 2rem 1rem; 
+} 
+ 
+a { 
+  text-decoration: none; 
+  color: inherit; 
+} 
+ 
+img { 
+  max-width: 100%; 
+  height: auto; 
+  display: block; 
+} 
+ 
+.btn { 
+  padding: 0.8rem 2rem; 
+  border: none; 
+  cursor: pointer; 
+  font-size: 1rem; 
+  font-weight: 500; 
+  transition: opacity 0.3s ease; 
+} 
+ 
+.btn:hover { 
+  opacity: 0.85; 
+} 
+ 
+.btn-dark { 
+  background-color: var(--primary-black); 
+  color: var(--primary-white); 
+}

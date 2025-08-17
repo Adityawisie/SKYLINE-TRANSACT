@@ -1,0 +1,122 @@
+/* src/pages/ProductCatalog.css */
+.catalog-header {
+  background-color: var(--light-grey);
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.catalog-header h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+.catalog-header p {
+  font-size: 1.2rem;
+  color: #666;
+}
+
+.catalog-content {
+  padding: 5rem 0;
+}
+
+.filter-section {
+  margin-bottom: 3rem;
+}
+
+.category-filters {
+  display: flex;
+  list-style: none;
+  padding: 0;
+  margin: 1rem 0 0;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.category-filters li {
+  padding: 0.5rem 1.5rem;
+  border: 1px solid var(--border-color);
+  border-radius: 30px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.category-filters li.active,
+.category-filters li:hover {
+  background-color: var(--primary-black);
+  color: var(--primary-white);
+  border-color: var(--primary-black);
+}
+
+.products-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.product-card {
+  border: 1px solid var(--border-color);
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.product-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+}
+
+.placeholder-image {
+  height: 200px;
+  background-color: var(--light-grey);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: bold;
+  color: #888;
+}
+
+.product-details {
+  padding: 1.5rem;
+}
+
+.product-details h3 {
+  margin: 0 0 0.5rem;
+}
+
+.product-category {
+  display: inline-block;
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1rem;
+  background-color: var(--light-grey);
+  padding: 0.2rem 0.8rem;
+  border-radius: 20px;
+}
+
+.product-details p {
+  margin-bottom: 1.5rem;
+  line-height: 1.6;
+  color: #666;
+}
+
+.inquiry-section {
+  background-color: var(--light-grey);
+  padding: 5rem 0;
+  text-align: center;
+}
+
+.inquiry-section h2 {
+  margin-bottom: 1rem;
+}
+
+.inquiry-section p {
+  margin-bottom: 2rem;
+  color: #666;
+}
+
+@media (max-width: 768px) {
+  .category-filters {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+}

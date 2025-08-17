@@ -1,0 +1,35 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Organic Certificate illustration -->
+  <rect width="200" height="200" fill="#f8f8f8" rx="10" ry="10"/>
+  
+  <!-- Certificate paper -->
+  <rect x="30" y="40" width="140" height="120" fill="#fff" stroke="#ccc" stroke-width="1" />
+  
+  <!-- Certificate border -->
+  <rect x="35" y="45" width="130" height="110" fill="none" stroke="#1d3557" stroke-width="2" stroke-dasharray="2" />
+  
+  <!-- Certificate header -->
+  <rect x="50" y="55" width="100" height="20" fill="#457b9d" rx="3" ry="3" />
+  <text x="100" y="69" font-family="Arial" font-size="10" fill="white" text-anchor="middle" font-weight="bold">ORGANIC CERTIFICATE</text>
+  
+  <!-- Certificate content lines -->
+  <line x1="50" y1="85" x2="150" y2="85" stroke="#a8dadc" stroke-width="1" />
+  <line x1="50" y1="95" x2="150" y2="95" stroke="#a8dadc" stroke-width="1" />
+  <line x1="50" y1="105" x2="150" y2="105" stroke="#a8dadc" stroke-width="1" />
+  <line x1="50" y1="115" x2="150" y2="115" stroke="#a8dadc" stroke-width="1" />
+  <line x1="50" y1="125" x2="150" y2="125" stroke="#a8dadc" stroke-width="1" />
+  
+  <!-- Certificate seal -->
+  <circle cx="65" cy="140" r="10" fill="#e63946" />
+  <circle cx="65" cy="140" r="7" fill="none" stroke="#fff" stroke-width="1" />
+  <path d="M60,140 L70,140 M65,135 L65,145" stroke="#fff" stroke-width="1" />
+  
+  <!-- Certificate signature line -->
+  <line x1="100" y1="140" x2="140" y2="140" stroke="#1d3557" stroke-width="1" />
+  <text x="120" y="150" font-family="Arial" font-size="6" fill="#1d3557" text-anchor="middle">AUTHORIZED SIGNATURE</text>
+  
+  <!-- Organic specific elements -->
+  <text x="100" y="100" font-family="Arial" font-size="6" fill="#1d3557" text-anchor="middle">CERTIFIED ORGANIC PRODUCTS</text>
+  <path d="M80,115 C85,105 95,105 100,115" stroke="#4CAF50" stroke-width="1" fill="none" />
+  <path d="M100,115 C105,105 115,105 120,115" stroke="#4CAF50" stroke-width="1" fill="none" />
+</svg>
